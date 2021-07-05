@@ -1,0 +1,3 @@
+1- Kullanıcı siteye erişim sağlayınca gece modu seçeneğinin sunulması.
+2- Kullanıcı ilan sitelerinde fotoğraf ekleyince fotoğrafların otomatikman resize edilmesi.
+3- Kullanıcı siteye mail adresiyle giriş yaparken büyük küçük harf duyarlılığı ortadan kaldırılarak girilen mail adresindeki tüm harfler küçük harf yapılır.

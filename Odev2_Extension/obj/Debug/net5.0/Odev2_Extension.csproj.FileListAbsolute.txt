@@ -1,0 +1,16 @@
+D:\Drive\BOOTCAMP\Odev2_Extension\bin\Debug\net5.0\Odev2_Extension.exe
+D:\Drive\BOOTCAMP\Odev2_Extension\bin\Debug\net5.0\Odev2_Extension.deps.json
+D:\Drive\BOOTCAMP\Odev2_Extension\bin\Debug\net5.0\Odev2_Extension.runtimeconfig.json
+D:\Drive\BOOTCAMP\Odev2_Extension\bin\Debug\net5.0\Odev2_Extension.runtimeconfig.dev.json
+D:\Drive\BOOTCAMP\Odev2_Extension\bin\Debug\net5.0\Odev2_Extension.dll
+D:\Drive\BOOTCAMP\Odev2_Extension\bin\Debug\net5.0\ref\Odev2_Extension.dll
+D:\Drive\BOOTCAMP\Odev2_Extension\bin\Debug\net5.0\Odev2_Extension.pdb
+D:\Drive\BOOTCAMP\Odev2_Extension\obj\Debug\net5.0\Odev2_Extension.csprojAssemblyReference.cache
+D:\Drive\BOOTCAMP\Odev2_Extension\obj\Debug\net5.0\Odev2_Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\BOOTCAMP\Odev2_Extension\obj\Debug\net5.0\Odev2_Extension.AssemblyInfoInputs.cache
+D:\Drive\BOOTCAMP\Odev2_Extension\obj\Debug\net5.0\Odev2_Extension.AssemblyInfo.cs
+D:\Drive\BOOTCAMP\Odev2_Extension\obj\Debug\net5.0\Odev2_Extension.csproj.CoreCompileInputs.cache
+D:\Drive\BOOTCAMP\Odev2_Extension\obj\Debug\net5.0\Odev2_Extension.dll
+D:\Drive\BOOTCAMP\Odev2_Extension\obj\Debug\net5.0\ref\Odev2_Extension.dll
+D:\Drive\BOOTCAMP\Odev2_Extension\obj\Debug\net5.0\Odev2_Extension.pdb
+D:\Drive\BOOTCAMP\Odev2_Extension\obj\Debug\net5.0\Odev2_Extension.genruntimeconfig.cache
