@@ -7,7 +7,7 @@
 ### -Middleware- <br>
 Ödev kapsamında ihtiyaç duyulabilecek middleware örnekleri verilmiştir.<br>
 ### -SOLID- <br>
-Ödev kapsamında SOLID prensiplerinden SRP ve OCP'ye ait örnekler yer almaktadır. Örneklerin yer aldığı makaleye medium hesabımdan ulaşılabilir.<br><br>
+Ödev kapsamında SOLID prensiplerinden SRP ve OCP'ye ait örnekler yer almaktadır. Örneklerin yer aldığı makaleye medium hesabımdan ulaşılabilir.<br>
 ### -Extension- <br>
 Ödev kapsamında program içerisinde işlerimizi kolaylaştıracak extension metotlar yazılmıştır.
 
